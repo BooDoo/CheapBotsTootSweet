@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/BooDoo/traceryhosting-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/BooDoo/traceryhosting-backend
+[submodule "send_status"]
+	path = send_status
+	url = https://github.com/BooDoo/traceryhosting-send_status
